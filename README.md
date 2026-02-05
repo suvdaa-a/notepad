@@ -1,11 +1,11 @@
 # Notepad
-My "first" project(not really first, but the first I won't use tutorials or AI)
+My "first" project
 
 ## what i wish to achieve
 1. Be able to put text in it
 2. Save the text
 3. edit the saved text
-4. make new texts
+4. make new texts/open texts
 5. be able to make texts **bold**, _italic_, and \#headers
 6. use docker and git
 7. use C++
